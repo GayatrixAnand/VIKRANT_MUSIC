@@ -71,13 +71,6 @@ def aq_markup(_, chat_id):
             InlineKeyboardButton(text="‣‣I", callback_data=f"ADMIN Skip|{chat_id}"),
             InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}"),
         ],
-        [
-            InlineKeyboardButton(
-                text="𝐕ɪᴋʀᴀɴᴛ 𝗪ᴏʀʟᴅ 🥀", url=f"https://t.me/Guppppp_Shuppppp"
-            ),
-            InlineKeyboardButton(
-                text="𝖢ʜᴀᴛ 𝖦ʀᴏᴜᴘ 🥀", url=f"https://t.me/SYNTAX_WORLD"
-            ),
-        ],
+      
       ]
     return buttons
