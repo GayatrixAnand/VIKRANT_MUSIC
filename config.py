@@ -22,11 +22,11 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 10000)) # Duration limit for p
 
 LOGGER_ID = int(getenv("LOGGER_ID", None)) # Chat id of a group for logging bot's activities
 
-OWNER_ID = int(getenv("OWNER_ID", 7403621976)) # Get this value from @MissRose_bot on Telegram by /id
+OWNER_ID = int(getenv("OWNER_ID", 890275081)) # Get this value from @MissRose_bot on Telegram by /id
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SYNTAX_WORLD")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/THEDORESONA")
 
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Guppppp_Shuppppp")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+OJH3bDfB_xI4YTI1")
 
 # Get your pyrogram v2 session from https://telegram.tools/session-string-generator#pyrogram on Telegram
 
@@ -42,7 +42,7 @@ STRING5 = getenv("STRING_SESSION5", None)
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/v3q694.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/kqev1q.jpg"
 )
 
 PING_IMG_URL = getenv(
@@ -87,7 +87,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY") # Get it from http://dashboard.heroku.
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/syntaxworldcodes/VIKRANT_MUSIC",
+    "https://github.com/GayatrixAnand/VIKRANT_MUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
