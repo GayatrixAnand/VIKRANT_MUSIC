@@ -50,7 +50,7 @@ async def init():
         pass
     await vikrant.decorators()
     LOGGER("VIKRANT").info(
-        "JAKE VIKRANT @II_VIKRANT_II KO PAPA BOLDENA AB @SYNTAX_WORLD"
+        "JAKE Anand🤭 @KINGxANAND KO PAPA BOLDENA AB @new_sanatani"
     )
     await idle()
     await app.stop()
