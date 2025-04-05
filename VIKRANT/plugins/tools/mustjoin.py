@@ -5,8 +5,8 @@ from VIKRANT import app
 
 #--------------------------
 
-MUST_JOIN = "Guppppp_Shuppppp"  # First channel
-MUST_JOIN_2 = "SYNTAX_WORLD"  # Second channel
+MUST_JOIN = "New_sanatani"  # First channel
+MUST_JOIN_2 = "KINGxANAND"  # Second channel
 #------------------------
 
 @app.on_message(filters.incoming & filters.private, group=-1)
